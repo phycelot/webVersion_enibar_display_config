@@ -1,0 +1,11 @@
+@media screen and (max-width: 600px) {
+  .up_option_button {
+    margin-right: 0%;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .up_option_button {
+    margin-right: 5%;
+  }
+}

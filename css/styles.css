@@ -1,0 +1,33 @@
+#view-source {
+      position: fixed;
+      display: block;
+      right: 0;
+      bottom: 0;
+      margin-right: 40px;
+      margin-bottom: 40px;
+      z-index: 900;
+  }
+
+.drawer-separator {
+  height: 1px;
+  background-color: #dcdcdc;
+  margin: 8px 0;
+}
+
+.ouvert {display: block;}
+.ferme {display: none;}
+
+.drawer-separator2 {
+  height: 1px;
+  background-color: #dcdcdc;
+  margin: 8px 0;
+}
+
+.dedi-card {
+  display: flex;
+  margin-top: 1%;
+  margin-left: 20%;
+  margin-bottom: 20%;
+  margin-right: 1%;
+
+}

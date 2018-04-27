@@ -1,0 +1,39 @@
+{"meteo_image":[{
+	"key":"ensoleille","image_code":"sunny"},{
+	"key":"nuit-claire","image_code":"moon-9"},{
+	"key":"ciel-voile","image_code":"clouds"},{
+	"key":"nuit-legerement-voilee","image_code":"cloudy-night"},{
+	"key":"faibles-passages-nuageux","image_code":"sunset-2"},{
+	"key":"nuit-bien-degagee","image_code":"moon-9"},{
+	"key":"brouillard","image_code":"calm"},{
+	"key":"stratus","image_code":"clouds-1"},{
+	"key":"stratus-se-dissipant","image_code":"clouds-1"},{
+	"key":"nuit-claire-et-stratus","image_code":"cloudy-night"},{
+	"key":"eclaircies","image_code":"sunset-2"},{
+	"key":"nuit-nuageuse","image_code":"moon-13"},{
+	"key":"faiblement-nuageux","image_code":"clouds-1"},{
+	"key":"fortement-nuageux","image_code":"clouds"},{
+	"key":"averses-de-pluie-faible","image_code":"rainy"},{
+	"key":"nuit-avec-averses","image_code":"raining"},{
+	"key":"averses-de-pluie-moderee","image_code":"raining"},{
+	"key":"averses-de-pluie-forte","image_code":"raining"},{
+	"key":"couvert-avec-averses","image_code":"raining"},{
+	"key":"pluie-faible","image_code":"raining"},{
+	"key":"pluie-forte","image_code":"raining"},{
+	"key":"pluie-moderee","image_code":"raining"},{
+	"key":"developpement-nuageux","image_code":"clouds"},{
+	"key":"nuit-avec-developpement-nuageux","image_code":"moon-13"},{
+	"key":"faiblement-orageux","image_code":"clouds"},{
+	"key":"nuit-faiblement-orageuse","image_code":"moon-13"},{
+	"key":"orage-modere","image_code":"storm"},{
+	"key":"fortement-orageux","image_code":"storm-1"},{
+	"key":"averses-de-neige-faible","image_code":"snow"},{
+	"key":"nuit-avec-averses-de-neige-faible","image_code":"snowing"},{
+	"key":"neige-faible","image_code":"snow"},{
+	"key":"neige-moderee","image_code":"snowing"},{
+	"key":"neige-forte","image_code":"snowing"},{
+	"key":"pluie-et-neige-melee-faible","image_code":"snowing"},{
+	"key":"pluie-et-neige-melee-moderee","image_code":"snowing"},{
+	"key":"pluie-et-neige-melee-forte","image_code":"snowing"
+}]
+}

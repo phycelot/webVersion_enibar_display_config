@@ -1,0 +1,101 @@
+@media screen and (max-width: 600px) {
+/*meteo card*/
+.meteo-card-text h1 {
+  font-size: 20px;
+  line-height: 10%;
+}
+
+.meteo-card-text h3 {
+  font-size: 15px;
+  line-height: 20%;
+}
+
+.meteo-card-text h4 {
+  font-size: 10px;
+}
+
+.meteo-card-text{
+  line-height:20%; 
+}
+
+.infoMeteo {
+  line-height: 20%;
+  margin: 0.5em 0; 
+}
+/*end meteo card*/
+/*conso card*/
+
+
+/*end conso card*/
+
+}
+@media screen and (min-width: 600px){
+/*meteo card*/
+.meteo-card-image{
+	
+}
+
+.meteo-card-text{
+	
+
+}
+.meteo-card-text h1 {
+	font-size: 30px;
+}
+
+.meteo-card-text h3 {
+	font-size: 20px;
+  line-height: 40%;
+}
+
+.meteo-card-text h4 {
+	font-size: 15px;
+  line-height: 40%;
+}
+.meteo{
+}
+/*end meteo card*/
+/*conso card*/
+.conso-card {
+}
+
+/*end conso card*/
+}
+
+.meteo-card-image{
+  background-size: contain !important;
+  background : no-repeat center;
+  width: 40%;
+}
+
+.meteo-card-text{
+  background-color: #3f51b5;
+  width: 60%;
+
+}
+.meteo-card-text h1 {
+	color:#ffffff;
+	font-family: "Roboto","Helvetica","Arial",sans-serif;
+  line-height: 1;
+  letter-spacing: .02em;
+  font-weight: 400;
+  box-sizing: border-box;
+}
+
+.meteo-card-text h3 {
+	color:#ffffff;
+	font-family: "Roboto","Helvetica","Arial",sans-serif;
+  line-height: 1;
+  letter-spacing: .02em;
+  font-weight: 400;
+  box-sizing: border-box;
+}
+
+.meteo-card-text h4 {
+	color:#ffffff;
+	font-family: "Roboto","Helvetica","Arial",sans-serif;
+  line-height: 1;
+  letter-spacing: .02em;
+  font-weight: 400;
+  box-sizing: border-box;
+}

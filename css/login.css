@@ -1,0 +1,47 @@
+ body {
+    background-color: grey;
+    text-align:center;
+  }
+  .login_title{
+    font-size: 200%;
+  }
+  .login-card {
+/*     max-width:400px; */
+    width: auto;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+  }
+  
+  .login-button {
+    color: red;
+    background-color: #e7e7e7;
+    margin-right:3%;
+  }
+  .login-button:hover {
+    color: darkred;
+    background-color:#555555;
+  }
+  .login_digit_button {
+    color: red;
+    background-color: #e7e7e7;
+    margin-bottom:2%;
+  }
+  .login_digit_zone {
+    text-align: center;
+    width:auto;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+  }
+  .close {
+    display:none;
+  }
+  .code_input {
+    text-align:center;
+  }
+  .login_button_card {
+    text-align:right;
+  }

@@ -1,0 +1,20 @@
+.date_heure_up {
+	color:#ffffff;
+	font-family: "Roboto","Helvetica","Arial",sans-serif;
+	line-height: 1;
+	letter-spacing: .02em;
+	font-weight: 400;
+	box-sizing: border-box;
+	line-height: 40%;
+}
+
+@media screen and (max-width: 600px) {
+.date_heure_up {
+  font-size: 13px;
+  }
+}
+@media screen and (min-width: 600px){
+.date_heure_up {
+  font-size: 40px;
+}
+}

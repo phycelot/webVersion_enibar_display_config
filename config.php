@@ -1,5 +1,6 @@
 <?php
 mb_internal_encoding('UTF-8_general_ci');
+//session start
 session_start();
 if (!isset($_SESSION['users_id'])){
 	header('Location: login');
